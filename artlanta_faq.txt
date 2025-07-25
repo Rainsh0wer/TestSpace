@@ -1,0 +1,179 @@
+# ARTLANTA Q&A CHO DIALOGFLOW
+
+ GIỚI THIỆU VỀ ARTLANTA
+
+Question 1: Artlanta là gì?
+Response 1: Artlanta là mạng xã hội nghệ thuật hàng đầu Việt Nam, nơi kết nối nghệ sĩ và người yêu nghệ thuật. Bạn có thể chia sẻ tác phẩm, thuê artist commission, mua bán artwork và tham gia cộng đồng sáng tạo.
+
+Question 2: Tôi có thể làm gì trên Artlanta?
+Response 2: Trên Artlanta bạn có thể: chia sẻ tác phẩm nghệ thuật, thuê artist vẽ commission, mua bán artwork, tham gia cộng đồng, like/share/comment, follow nghệ sĩ yêu thích, và kiếm tiền từ tài năng của mình.
+
+Question 3: Artlanta có miễn phí không?
+Response 3: Đăng ký và sử dụng cơ bản Artlanta hoàn toàn miễn phí. Bạn chỉ trả phí khi thuê commission hoặc mua tác phẩm từ nghệ sĩ.
+
+ ĐĂNG KÝ VÀ TÀI KHOẢN
+
+Question 4: Làm sao đăng ký tài khoản Artlanta?
+Response 4: Bạn có thể đăng ký bằng email, Google, Facebook hoặc Apple ID. Truy cập artlanta.vn, click "Đăng ký", điền thông tin và xác thực email để hoàn tất.
+
+Question 5: Có những loại tài khoản nào trên Artlanta?
+Response 5: Có 3 loại: Tài khoản cá nhân (người dùng thường), Tài khoản nghệ sĩ (có thể bán commission), và Tài khoản doanh nghiệp (cho gallery, studio).
+
+Question 6: Tôi quên mật khẩu thì làm sao?
+Response 6: Click "Quên mật khẩu" ở trang đăng nhập, nhập email đăng ký, kiểm tra email và làm theo hướng dẫn reset mật khẩu.
+
+ TÌM KIẾM VÀ KHÁM PHÁ
+
+Question 7: Làm sao tìm kiếm tác phẩm nghệ thuật?
+Response 7: Sử dụng thanh tìm kiếm ở đầu trang, gõ từ khóa (tên nghệ sĩ, hashtag, loại artwork). Bạn cũng có thể dùng bộ lọc nâng cao để tìm theo giá, thể loại, màu sắc.
+
+Question 8: Tôi có thể tìm nghệ sĩ theo phong cách vẽ không?
+Response 8: Có! Vào mục "Browse Artists", chọn filter Style và chọn phong cách như Anime, Realistic, Cartoon, Abstract, Minimalist để tìm nghệ sĩ phù hợp.
+
+Question 9: Làm sao khám phá nội dung mới?
+Response 9: Vào trang Explore để xem Featured Today (nổi bật), Trending Now (thịnh hành), For You (gợi ý cá nhân), Rising Stars (nghệ sĩ mới nổi) và Contest (cuộc thi).
+
+ TƯƠNG TÁC XÃ HỘI
+
+Question 10: Cách like và react tác phẩm?
+Response 10: Click icon trái tim dưới tác phẩm để like, hoặc long press để chọn reaction khác như Love ❤️, Applause 👏, Amazing 😍, Fire 🔥. Bạn cũng có thể double tap ảnh để quick like.
+
+Question 11: Làm sao share tác phẩm cho bạn bè?
+Response 11: Click icon share dưới tác phẩm, chọn nền tảng (Facebook, Instagram, Twitter) hoặc gửi link qua tin nhắn. Bạn có thể chọn quyền riêng tư khi share.
+
+Question 12: Cách comment và thảo luận?
+Response 12: Click vào tác phẩm để xem chi tiết, scroll xuống phần comment. Bạn có thể viết text, gửi emoji, tag bạn bè (@username), và reply comment khác.
+
+Question 13: Làm sao follow nghệ sĩ yêu thích?
+Response 13: Vào profile nghệ sĩ và click nút "Follow". Bạn sẽ nhận thông báo khi họ đăng tác phẩm mới và có thể xem trong feed cá nhân.
+
+ QUẢN LÝ VÍ VÀ NẠP TIỀN
+
+Question 14: Cách nạp tiền vào ví Artlanta?
+Response 14: Vào mục "Ví của tôi", chọn "Nạp tiền", chọn phương thức thanh toán (VNPay, Strike, Banking, Ví điện tử), nhập số tiền và xác nhận giao dịch.
+
+Question 15: Artlanta hỗ trợ những phương thức thanh toán nào?
+Response 15: Hỗ trợ: VNPay, Strike, Banking (chuyển khoản), các ví điện tử (MoMo, ZaloPay), thẻ Visa/Mastercard, và một số loại cryptocurrency.
+
+Question 16: Làm sao rút tiền từ ví Artlanta?
+Response 16: Vào "Ví của tôi", chọn "Rút tiền", nhập thông tin tài khoản ngân hàng, số tiền muốn rút. Thời gian xử lý 1-3 ngày làm việc.
+
+Question 17: Phí giao dịch trên Artlanta là bao nhiêu?
+Response 17: Nạp tiền qua VNPay/Banking miễn phí. Rút tiền phí 1-2%. Commission phí platform 5%. Phí có thể thay đổi, check tại trang Pricing.
+
+ THUÊ ARTIST COMMISSION
+
+Question 18: Làm sao thuê artist vẽ commission?
+Response 18: Vào mục Commission, tìm artist phù hợp, xem portfolio và giá, nhấn "Message Artist" để thảo luận project, thỏa thuận giá cả rồi đặt order chính thức.
+
+Question 19: Giá commission thường bao nhiêu?
+Response 19: Giá từ $10-500+ tùy độ phức tạp. Headshot $10-50, Bust $30-100, Full body $50-200, Background phức tạp thêm $20-100. Check pricing của từng artist.
+
+Question 20: Thời gian hoàn thành commission bao lâu?
+Response 20: Tùy artist và độ phức tạp: Rush order 1-3 ngày, Standard 1-2 tuần, Complex artwork 2-4 tuần. Check turnaround time trong profile artist.
+
+Question 21: Tôi có thể yêu cầu sửa đổi không?
+Response 21: Có! Mỗi artist có revision policy riêng, thường 1-3 lần sửa miễn phí. Sửa đổi lớn có thể phát sinh phí thêm. Thảo luận rõ trước khi đặt order.
+
+Question 22: Làm sao chọn artist phù hợp?
+Response 22: Xem portfolio, đọc reviews, check style phù hợp với project, xem response time và completion rate. Tìm artist có rating 4.5+ sao và reviews tích cực.
+
+Question 23: Thanh toán commission như thế nào?
+Response 23: Có thể trả 100% trước, 50-50, hoặc theo milestone. Tiền được giữ escrow, chỉ release khi bạn approve tác phẩm hoàn thành.
+
+ ĐĂNG TÁC PHẨM
+
+Question 24: Cách đăng tác phẩm lên Artlanta?
+Response 24: Click nút "+" hoặc "Đăng tác phẩm", upload file (JPG/PNG/GIF, max 10MB), thêm title, description, tags, chọn category và privacy setting.
+
+Question 25: Tôi có thể đăng loại file nào?
+Response 25: Hỗ trợ JPG, PNG, GIF cho ảnh tĩnh. Video MP4 (max 100MB, 2 phút). PDF cho portfolio. Một số format 3D như OBJ, FBX cho 3D artwork.
+
+Question 26: Làm sao tăng lượt xem cho tác phẩm?
+Response 26: Dùng hashtag phù hợp, đăng vào thời gian online cao (7-9PM), tương tác với cộng đồng, tham gia contest, và duy trì đăng đều đặn.
+
+Question 27: Tôi có thể bán tác phẩm không?
+Response 27: Có! Chuyển sang tài khoản Artist, upload tác phẩm với option "For Sale", set giá và license type. Buyer có thể mua trực tiếp từ profile bạn.
+
+ BẢO MẬT VÀ AN TOÀN
+
+Question 28: Artlanta có bảo vệ bản quyền không?
+Response 28: Có hệ thống báo cáo vi phạm bản quyền, watermark tự động, và DMCA takedown. Artist có thể set watermark và copyright notice cho tác phẩm.
+
+Question 29: Làm sao báo cáo nội dung vi phạm?
+Response 29: Click icon "..." trên tác phẩm hoặc profile, chọn "Report", chọn lý do (spam, copyright, inappropriate content) và gửi báo cáo. Team sẽ xử lý trong 24h.
+
+Question 30: Thông tin cá nhân có được bảo mật không?
+Response 30: Artlanta tuân thủ GDPR và luật bảo vệ dữ liệu. Thông tin thanh toán được mã hóa SSL, không chia sẻ data với bên thứ 3 trừ khi có đồng ý.
+
+ CỘNG ĐỒNG VÀ NHÓM
+
+Question 31: Làm sao tham gia cộng đồng Artlanta?
+Response 31: Vào mục "Communities", tìm nhóm theo sở thích (Digital Art, Anime, Photography), click "Join" và tham gia thảo luận, share tác phẩm trong nhóm.
+
+Question 32: Tôi có thể tạo nhóm riêng không?
+Response 32: Có! Click "Tạo Community", đặt tên, mô tả, rules, chọn public/private. Bạn sẽ là admin và có thể mời thành viên, quản lý nội dung.
+
+Question 33: Có sự kiện nào trên Artlanta không?
+Response 33: Thường xuyên có Art Contest, Workshop online, Artist Spotlight, Challenge themes. Check mục "Events" để xem lịch sự kiện và đăng ký tham gia.
+
+ KIẾM TIỀN VÀ KINH DOANH
+
+Question 34: Làm sao kiếm tiền trên Artlanta?
+Response 34: Bán commission artwork, bán tác phẩm có sẵn trong Marketplace, nhận tip từ fan, tham gia contest có giải thưởng, và bán tutorial/course.
+
+Question 35: Artlanta có lấy phí từ thu nhập không?
+Response 35: Platform fee 5% từ mỗi giao dịch commission và sales. Nhận tip và prize money không bị lấy phí. Rút tiền có phí 1-2% tùy phương thức.
+
+Question 36: Làm sao tăng thu nhập từ art?
+Response 36: Xây dựng portfolio chất lượng, tương tác tích cực với community, offer competitive pricing, deliver đúng hạn, collect reviews tốt, và marketing trên social media.
+
+ HỖ TRỢ KHÁCH HÀNG
+
+Question 37: Tôi gặp lỗi kỹ thuật thì liên hệ ai?
+Response 37: Vào mục "Help Center", gửi ticket support hoặc chat trực tiếp. Email: support@artlanta.vn. Hotline: 1900-xxxx (8AM-10PM). Response time 2-24h.
+
+Question 38: Làm sao thay đổi thông tin cá nhân?
+Response 38: Vào Settings > Profile, edit thông tin cần thay đổi (tên, bio, avatar, cover), save changes. Một số thông tin quan trọng cần verify lại.
+
+Question 39: Tôi muốn xóa tài khoản thì sao?
+Response 39: Vào Settings > Account > Delete Account. Cân nhắc kỹ vì data sẽ mất vĩnh viễn. Có thể deactivate tạm thời thay vì xóa hoàn toàn.
+
+Question 40: Artlanta có app mobile không?
+Response 40: Có app iOS và Android, download tại App Store và Google Play. App có đầy đủ tính năng như web version, optimized cho mobile experience.
+
+ MARKETPLACE VÀ MUA BÁN
+
+Question 41: Cách mua tác phẩm trong Marketplace?
+Response 41: Vào Marketplace, browse hoặc search tác phẩm, click "Buy Now", chọn license type (personal/commercial), thanh toán qua ví hoặc payment method, download sau khi complete.
+
+Question 42: Tôi có thể bán prints của artwork không?
+Response 42: Tùy vào license mua. Personal license chỉ dùng cá nhân, Commercial license cho phép bán prints. Extended license cho usage không giới hạn. Check terms khi mua.
+
+Question 43: Có thể đặt artwork theo yêu cầu riêng không?
+Response 43: Có! Đó chính là Commission service. Browse artists, message để discuss requirements, negotiate price và timeline, rồi place custom order.
+
+Question 44: Refund policy như thế nào?
+Response 44: Commission: refund theo agreement với artist. Marketplace: 7 ngày refund nếu file lỗi. Digital products thường no refund sau download. Check policy cụ thể từng seller.
+
+ TÍNH NĂNG NÂNG CAO
+
+Question 45: Artlanta có tính năng livestream không?
+Response 45: Có! Artist có thể livestream quá trình vẽ, nhận tip và interact với viewers real-time. Viewer có thể comment, heart, và support artist trong stream.
+
+Question 46: Có thể collaborate với artist khác không?
+Response 46: Có tính năng Collab Project, invite artists cùng làm một project, chia sẻ revenue theo tỉ lệ thỏa thuận. Phù hợp cho comic, animation, large projects.
+
+Question 47: Artlanta có AI tools không?
+Response 47: Có một số AI features: auto-tagging artwork, style recommendation, color palette suggestion, và basic editing tools. Tuy nhiên focus chính vẫn là human creativity.
+
+Question 48: Làm sao backup tác phẩm của mình?
+Response 48: Vào Settings > Data Export để download archive chứa tất cả artwork, posts, messages. Nên backup định kỳ. Premium users có auto-backup to cloud.
+
+ SUBSCRIPTION VÀ PREMIUM
+
+Question 49: Artlanta có gói premium không?
+Response 49: Có Artlanta Pro với benefits: unlimited uploads, priority support, advanced analytics, no watermark, exclusive features, discount commission fees. $9.99/tháng hoặc $99/năm.
+
+Question 50: Free account có giới hạn gì?
+Response 50: Free users: 50 uploads/tháng, basic analytics, watermark trên high-res downloads, standard support. Pro users không có giới hạn upload và nhiều features độc quyền.
